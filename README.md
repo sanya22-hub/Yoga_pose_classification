@@ -4,7 +4,6 @@
 <p align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white"></a>
-  <a href="#"><img alt="License" src="https://img.shields.io/badge/License-MIT-2ea44f"></a>
 </p>
 
 <p align="center">
