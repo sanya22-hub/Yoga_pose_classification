@@ -28,5 +28,5 @@
 - **Outcome:** Strong reps with a generalization gap → pointers for domain adaptation, curriculum, and keypoint cues
 
 ## Dataset
-- Kaggle link: **https://www.kaggle.com/code/akshat2009/yoga-classification**
+- Kaggle link: **https://www.kaggle.com/code/akshat2009/yoga-clasification-model**
 
