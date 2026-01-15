@@ -29,4 +29,5 @@
 
 ## Dataset
 - Kaggle link: **https://www.kaggle.com/code/akshat2009/yoga-clasification-model**
+- Report Link: **https://drive.google.com/file/d/1N21Sg3HwxJ7VgdXb4AzxC8dkn-VJMpJi/view?usp=sharing** 
 
